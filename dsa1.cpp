@@ -1,12 +1,6 @@
 #include <iostream>
 using namespace std;
-class  demo
-{ 
-    private: 
-     
-    public: 
-     
-}; 
+ 
 int main()
 {
      int a = 34;
